@@ -1,0 +1,3 @@
+node_modules
+ghost/.ghostpid
+ghost/content/logs/*
